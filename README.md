@@ -1,13 +1,17 @@
 # JSP(SERVLET,모델2) : 설문조사 만들기
 
 # 1. MainPage
+
 ![mainPage](https://user-images.githubusercontent.com/57667994/82121311-036d4400-97c7-11ea-92ab-af7c6880ace7.png)
 
 # 2. QuestionPage
+
 ![questionPage](https://user-images.githubusercontent.com/57667994/82121903-5d700880-97cb-11ea-869a-5ca33d4ecb7c.png)
 
 # 3. ResultPage
+
 ![resultPage1](https://user-images.githubusercontent.com/57667994/82121904-5f39cc00-97cb-11ea-8132-e4b7bfdc945b.png)
+
 ![resultPage2](https://user-images.githubusercontent.com/57667994/82121906-606af900-97cb-11ea-99cb-d287de7435f4.png)
 
 # 4. 구축환경
